@@ -1,0 +1,68 @@
+{
+  "data": {
+    "noData": "Нету даных",
+    "error": "Произошла ошибка при погрузке товаров"
+  },
+  "topHeader": {
+    "language": "рус",
+    "city": "город",
+    "linksOrder": [
+      "promotions",
+      "giftCards",
+      "stores",
+      "delivery",
+      "returns",
+      "tradeIn",
+      "help"
+    ],
+    "links": {
+      "promotions": "Акции",
+      "giftCards": "Подарочные карты",
+      "stores": "Магазины",
+      "delivery": "Доставка",
+      "returns": "Возврат",
+      "tradeIn": "Trade-In",
+      "help": "Помощь"
+    }
+  },
+  "mainHeader": {
+    "catalog": "каталог",
+    "placeholder": "поиск",
+    "goods": "товары",
+    "find": "найти",
+    "logIn": "войти",
+    "comparison": "сравнение",
+    "selected": "избранное",
+    "message": "сообщения",
+    "total": "сумма"
+  },
+    "DialogTitle":{
+    "title":"Виберите свой город"
+  },
+  "noOptionsText": {
+    "input": "Введите миимум 3 символа",
+    "none": "Ничего не найдено"
+  },
+  "renderInput": {
+    "label": "Поиск",
+    "placeholder": "Введите название"
+  },
+    "basket": {
+    "city": "город",
+    "basket": "Корзина",
+    "sumProducts1": "товар",
+    "sumProducts2": "товары",
+    "sumProducts10": "товаров",
+    "removeAll": "удалить все",
+    "yourBasket": "Ваша корзина",
+    "yourBasketEmpty": "Корзина пустая",
+    "today":"Можна забрать сегодня",
+    "code": "Код товара",
+    "select": "в избранное",
+    "remove": "удалить",
+    "count": "на сумму",
+    "discount": "Скидка",
+    "total": "Общая сумма",
+    "paperwork": "перейти к оформлению"
+  }
+}

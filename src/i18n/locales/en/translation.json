@@ -1,0 +1,39 @@
+{
+  "data": {
+    "noData": "no data",
+    "error": "An error occurred while loading the products."
+  },
+  "topHeader": {
+    "language": "en",
+    "city": "city",
+    "linksOrder": [
+      "promotions",
+      "giftCards",
+      "stores",
+      "delivery",
+      "returns",
+      "tradeIn",
+      "help"
+    ],
+    "links": {
+      "promotions": "Promotion",
+      "giftCards": "Gift cards",
+      "stores": "Stores",
+      "delivery": "Delivery",
+      "returns": "Returns",
+      "tradeIn": "Trade-In",
+      "help": "Help"
+    }
+  },
+  "mainHeader": {
+    "catalog": "catalog",
+    "placeholder": "search",
+    "goods": "goods",
+    "find": "find",
+    "logIn": "log in",
+    "comparison": "comparison",
+    "selected": "selected",
+    "message": "message",
+    "total": "total"
+  }
+}

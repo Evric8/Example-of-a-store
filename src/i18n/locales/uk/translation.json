@@ -1,0 +1,68 @@
+{
+  "data": {
+    "noData": "Немає даних",
+    "error": "Сталася помилка при завантаженні товарів."
+  },
+  "topHeader": {
+    "language": "укр",
+    "city": "місто",
+    "linksOrder": [
+      "promotions",
+      "giftCards",
+      "stores",
+      "delivery",
+      "returns",
+      "tradeIn",
+      "help"
+    ],
+    "links": {
+      "promotions": "Акції",
+      "giftCards": "Подарункові картки",
+      "stores": "Магазини",
+      "delivery": "Доставка",
+      "returns": "Повернення",
+      "tradeIn": "Trade-In",
+      "help": "Допомога"
+    }
+  },
+  "mainHeader": {
+    "catalog": "каталог",
+    "placeholder": "пошук",
+    "goods": "товари",
+    "find": "знайти",
+    "logIn": "увійти",
+    "comparison": "порівняння",
+    "selected": "обране",
+    "message": "повідомлення",
+    "total": "сума"
+  },
+  "DialogTitle": {
+    "title": "Виберіть своє місто"
+  },
+  "noOptionsText": {
+    "input": "Введіть мінімум 3 символи",
+    "none": "Нічого не знайдено"
+  },
+  "renderInput": {
+    "label": "Пошук",
+    "placeholder": "Введіть назву"
+  },
+  "basket": {
+    "city": "місто",
+    "basket": "Кошик",
+    "sumProducts1": "товар",
+    "sumProducts2": "товари",
+    "sumProducts10": "товарів",
+    "removeAll": "видалити все",
+    "yourBasket": "Ваш кошик",
+    "yourBasketEmpty": "Кошик пустий",
+    "today":"Можна забрати сьогодні",
+    "code": "Код товара",
+    "select": "в обране",
+    "remove": "видалити",
+    "count": "на суму",
+    "discount": "Знижка",
+    "total": "Загальна сума",
+    "paperwork": "перейти до оформлення"
+  }
+}
