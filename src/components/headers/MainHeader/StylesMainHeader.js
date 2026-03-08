@@ -61,7 +61,7 @@ export const styles = {
   searchIconWrapper: {
     position: "absolute",
     pl: 1,
-    pt: 0.8,
+    pt: { xs: 0.8, lg: 1.5 },
     pointerEvents: "none",
   },
 
@@ -108,7 +108,7 @@ export const styles = {
     alignItems: "center",
   },
 
-  display: { display: { xs: "none", mdButton: "flex" },gap:1 },
+  display: { display: { xs: "none", mdButton: "flex" }, gap: 1 },
 
   typographyIcon: { display: { xs: "none", lg: "block" } },
 
