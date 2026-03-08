@@ -2,8 +2,10 @@ export const styles = {
   box: {
     position: "fixed",
     bottom: 0,
-    left: 0,
+    left: "50%",
+    transform: "translate(-50%)",
     width: "100%",
+    maxWidth: 1200,
     zIndex: 1200,
     display: { xs: "none", mdButton: "flex" },
     justifyContent: "space-around",

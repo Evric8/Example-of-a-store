@@ -1,4 +1,4 @@
-import { Box, Button, Stack } from "@mui/material";
+import { Box, Button, Container, Stack } from "@mui/material";
 import DeleteForeverIcon from "@mui/icons-material/DeleteForever";
 import BasketHeader from "../../components/headers/BasketHeader/BasketHeader";
 import InnerBasket from "../../components/main/InnerBasket/InnerBasket";
@@ -19,7 +19,7 @@ const Basket = () => {
   };
 
   return (
-    <>
+    <Container maxWidth="lg">
       <BasketHeader />
       <Box component="section" sx={styles.basketBox}>
         <Stack spacing={2}>
@@ -35,7 +35,7 @@ const Basket = () => {
           <InnerBasket />
         </Stack>
       </Box>
-    </>
+    </Container>
   );
 };
 

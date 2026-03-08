@@ -26,7 +26,7 @@ export const styles = {
   buttonFooterThrow: {
     color: "white",
     opacity: 0.7,
-    ml:2,
+    ml: 2,
     "&:hover": { backgroundColor: "#575353", opacity: 1 },
   },
 
