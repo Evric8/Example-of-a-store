@@ -9,7 +9,7 @@ import {
 import { styles } from "./StylesFormOrder";
 import FormField from "../FormField/FormField";
 import FormError from "../FormError/FormError";
-import { FlagUK } from "../../../common/flags/flagUK/FlagUK";
+import { FlagUK } from "../../../common/flags/FlagUK/FlagUK";
 import LineFlags from "../../../common/flags/LineFlag/LineFlags";
 import FlagPl from "../../../common/flags/FlagPl/FlagPl";
 import { FlagUSA } from "../../../common/flags/FlagUSA/FlagUSA";
