@@ -16,7 +16,7 @@ i18n
       uk: { translation: uk },
       ru: { translation: ru },
     },
-    // lng: "uk",
+    lng: "uk", // мова по дефолту
     fallbackLng: "uk",
     detection: {
       // 👇 ось ці налаштування додають підтримку localStorage
