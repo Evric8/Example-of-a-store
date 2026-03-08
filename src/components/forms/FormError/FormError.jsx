@@ -1,5 +1,5 @@
 import { Box } from "@mui/material";
-import { styles } from "../formOrder/StylesFormOrder";
+import { styles } from "../FormOrder/StylesFormOrder";
 import { getIn } from "formik";
 
 const FormError = ({ name, formik }) => {
