@@ -10,6 +10,7 @@ export const styles = {
   boxMain: {
     width: "98vw",
     m: "0 auto",
+    pb: 8,
   },
 
   boxFooter: {
